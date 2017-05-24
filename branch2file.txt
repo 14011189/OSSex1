@@ -1,2 +1,3 @@
 branch2 name is ar2.
 
+merge test1
