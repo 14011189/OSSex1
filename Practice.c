@@ -7,8 +7,8 @@ This branch name is ar1.
 
 Hi.
 Nice to meet you too.
-This branch is b1.
+This branch is branch.
 I'm hungry.
-I want to eat sandwitch.
+I want to eat something.
 I want to go home right now!!!!
 
