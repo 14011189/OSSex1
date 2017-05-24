@@ -1,7 +1,14 @@
 Hi I'm using GIT bash.
 
-Oh..!!HI!!!!
+Oh.Hi.
 I'm using GIT bash too.
 Nice to meet you~
 This branch name is ar1.
+
+Hi.
+Nice to meet you too.
+This branch is b1.
+I'm hungry.
+I want to eat sandwitch.
+I want to go home right now!!!!
 
