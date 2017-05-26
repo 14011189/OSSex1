@@ -7,7 +7,7 @@ This branch name is ar1.
 
 Hi.
 Nice to meet you too.
-This branch is test.
-I'm full.
-I want to eat Something.
+I changed Practice.c in bb.
+I'm full now.
+I want to eat nothing.
 I want to go home right now!!!!
