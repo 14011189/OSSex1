@@ -7,7 +7,7 @@ This branch name is ar1.
 
 Hi.
 Nice to meet you too.
-I changed Practice.c in bb.
-I'm full now.
-I want to eat nothing.
+I changed Practice.c in B.
+I'm thirsty.
+I want to eat something.
 I want to go home right now!!!!
