@@ -1,4 +1,4 @@
-I wanht to draw branch graph.
-plz drawing graph.....
+I wanht to draw R branch graph.
+plz drawing grap.....
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT.
 
